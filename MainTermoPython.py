@@ -184,7 +184,7 @@ while valido == 0:
             print(f'A pressão de equilíbrio para essa temperatura é {p:.4f} MPa')
             
             # Pede ao usuário um nome para o arquivo de resultados que vai ser gerado.
-            nomeResultados = input('escolha o nome do arquivo de resultados: ')
+            nomeResultados = input('Escolha o nome do arquivo de resultados: ')
             with open(nomeResultados, 'w') as arq:
                 
                 # Transforma o arquivo .xlsx com os dados das substâncias em um dataFrame.
