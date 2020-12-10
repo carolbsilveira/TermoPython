@@ -1,0 +1,2 @@
+# TermoPython
+O programa TermoPyhton é uma ferramenta para o estudo de Termodinâmica Química Aplicada com foco em Equilíbrio de Fases Líquido-Vapor (ELV). O código implementado tem como objetivo predizer, a partir da entrada de pontos experimentais pelo usuário, os valores de pressão de equilíbrio de fases à altas pressões utilizando o método de Peng-Robinson para substâncias puras e o método de Peng-Robinson em conjunto com Regras de Mistura de van der Waals para predição dos valores de pressão e fração molar de vapor do ELV de misturas binárias. 
